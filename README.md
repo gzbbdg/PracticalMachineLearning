@@ -1,2 +1,2 @@
 # PracticalMachineLearning
-Initial
+Practical Machine Learning Assessment by Łukasz Grzybowski
